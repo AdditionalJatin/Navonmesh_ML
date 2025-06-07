@@ -1,0 +1,41 @@
+{
+  "session_id": "20250607_140112",
+  "start_time": "2025-06-07T14:01:33.705334",
+  "camera_ip": "http://192.168.1.4:4747/video",
+  "total_segments": 1,
+  "segments": [
+    {
+      "timestamp": 20.032907009124756,
+      "segment_id": 1,
+      "story_text": "The camera captures a laptop clearly visible on the center of frame.",
+      "detected_objects": [
+        {
+          "class": "laptop",
+          "count": 1,
+          "positions": [
+            "center of frame"
+          ],
+          "avg_confidence": 0.8837844729423523
+        }
+      ],
+      "total_objects": 1,
+      "scene_activity": "low",
+      "detection_details": [
+        {
+          "class": "laptop",
+          "confidence": 0.8837844729423523,
+          "bbox": [
+            166.39215087890625,
+            5.428436279296875,
+            640.0,
+            480.0
+          ],
+          "position": "center of frame"
+        }
+      ],
+      "created_at": "2025-06-07T14:01:33.701608",
+      "camera_ip": "http://192.168.1.4:4747/video",
+      "session_id": "20250607_140112"
+    }
+  ]
+}
